@@ -70,7 +70,7 @@ I thrive in collaborative, high-impact environments and am currently seeking opp
 
 | Project | Description | Tech Stack | Link |
 |--------|-------------|------------|------|
-| **Fuel Cell Optimization with ML** | Trained neural networks to predict pressure drop and temperature in PEMFC stacks using MATLAB + PyTorch | PyTorch, MATLAB | [Repo](https://github.com/fuel-cell-prediction) |
+| **Fuel Cell Optimization with ML** | Trained neural networks to predict pressure drop and temperature in PEMFC stacks using MATLAB + PyTorch | PyTorch, MATLAB | [Repo]([https://github.com/fuel-cell-prediction](https://github.com/lee-hanhee/fuel-cell-prediction) |
 
 ---
 
