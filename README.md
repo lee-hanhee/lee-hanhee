@@ -70,7 +70,11 @@ I thrive in collaborative, high-impact environments and am currently seeking opp
 
 | Project | Description | Tech Stack | Link |
 |--------|-------------|------------|------|
-| **Fuel Cell Optimization with ML** | Trained neural networks to predict pressure drop and temperature in PEMFC stacks using MATLAB + PyTorch | PyTorch, MATLAB | [Repo](https://github.com/lee-hanhee/fuel-cell-prediction) [Website](https://fuel-cell-prediction.vercel.app) |
+| **Fuel Cell Optimization with ML** | Trained neural networks to predict pressure drop and temperature in PEMFC stacks | PyTorch, MATLAB | [Repo](https://github.com/lee-hanhee/fuel-cell-prediction) [Website](https://fuel-cell-prediction.vercel.app) |
+| **Hanamphne** | Multi-instrument into source separation model for music files | PyTorch | [Repo](https://github.com/lee-hanhee/ECE324_Project) |
+| **Seam Carving** | Seam carving app for images | C | [Repo](https://github.com/lee-hanhee/seam-carving) [Website](https://seam-carving-phi.vercel.app) |
+| **Smart Fit** | Exercise classification | Scikit-Learn | [Repo](https://github.com/lee-hanhee/smart-fit)
+| **Anki for LeetCode** | Anki applied to LeetCode | Python | [Repo](https://github.com/lee-hanhee/leetcode)
 
 ---
 
