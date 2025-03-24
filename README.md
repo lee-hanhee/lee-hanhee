@@ -79,7 +79,6 @@ I thrive in collaborative, high-impact environments and am currently seeking opp
 - 🥇 **Mitacs Globalink Research Award**, 2024 – Research internship at National University of Singapore  
 - 📜 **ESROP Global Research Award**, University of Toronto  
 - ✅ **Machine Learning Specialization**, Coursera (Andrew Ng)  
-- 🧠 **Deep Learning Fundamentals**, YouTube + Coursera Self-Directed Track  
 
 ---
 
