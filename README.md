@@ -15,8 +15,6 @@ I thrive in collaborative, high-impact environments and am currently seeking opp
 
 ---
 
-## 🛠️ Tech Stack
-
 ## 💻 Tech Stack
 
 | Languages | Frameworks & Libraries | Tools & Platforms |
