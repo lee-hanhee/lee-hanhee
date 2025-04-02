@@ -2,16 +2,7 @@
 # Hanhee Lee
 
 🎓 Undergraduate Engineering Science student @ University of Toronto  
-🧠 Major in Machine Intelligence | 🤖 ML • 🖥️ Full-Stack Dev • ⚙️ Systems Thinking  
-🔍 Exploring opportunities in applied machine learning, research, and impactful software projects
-
----
-
-## 👋 About Me
-
-I am an Engineering Science undergraduate at the University of Toronto specializing in Machine Intelligence. My academic and project work bridges theory and application — from training neural networks for fuel cell optimization, to building full-stack web platforms for student learning. I am especially interested in interdisciplinary problems at the intersection of machine learning, full-stack development, and systems engineering.
-
-I thrive in collaborative, high-impact environments and am currently seeking opportunities in research, applied ML, or software engineering where I can contribute meaningfully to real-world solutions.
+🧠 Major in Machine Intelligence | 🤖 ML • 🖥️ Full-Stack Dev   
 
 ---
 
