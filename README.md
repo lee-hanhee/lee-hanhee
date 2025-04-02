@@ -69,24 +69,10 @@
 
 ---
 
-## 🏅 Achievements & Certifications
-
-- 🥇 **Mitacs Globalink Research Award**, 2024 – Research internship at National University of Singapore  
-- 📜 **ESROP Global Research Award**, University of Toronto  
-- ✅ **Machine Learning Specialization**, Coursera (Andrew Ng)  
-
----
-
 ## 📬 Let’s Connect
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/lee-hanhee)
 [![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white)](mailto:hanheeeng.lee@mail.utoronto.ca)
-
----
-
-## ✨ Outside the Code
-
-When I’m not engineering or coding, I enjoy long-distance running 🏃, and making videos 🎥
 
 ---
 
