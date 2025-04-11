@@ -62,7 +62,6 @@
 | **InstruNET** | Multi-instrument into source separation model for music files | PyTorch | [Repo](https://github.com/lee-hanhee/instru-net) [Website](https://instru-net.github.io) |
 | **Seam Carving** | Seam carving app for images | C | [Repo](https://github.com/lee-hanhee/seam-carving) [Website](https://seam-carving-phi.vercel.app) |
 | **Smart Fit** | Exercise classification | Scikit-Learn | [Repo](https://github.com/lee-hanhee/smart-fit)
-| **Anki for LeetCode** | Anki applied to LeetCode | Python | [Repo](https://github.com/lee-hanhee/leetcode)
 
 ---
 
