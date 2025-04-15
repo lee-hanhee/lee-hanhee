@@ -59,7 +59,7 @@
 | Project | Description | Tech Stack | Link |
 |--------|-------------|------------|------|
 | **Fuel Cell Optimization** | Trained neural networks to predict pressure drop and temperature in PEMFC stacks | PyTorch, MATLAB | [Repo](https://github.com/lee-hanhee/fuel-cell-prediction) [Website](https://fuel-cell-prediction.vercel.app) |
-| **InstruNET** | Multi-instrument into source separation model for music files | PyTorch | [Repo](https://github.com/lee-hanhee/instru-net) [Website](https://instru-net.github.io) |
+| **InstruNET** | Multi-label instrument classification in music files | PyTorch | [Repo](https://github.com/lee-hanhee/instru-net) [Website](https://instru-net.github.io) |
 | **Seam Carving** | Seam carving app for images | C | [Repo](https://github.com/lee-hanhee/seam-carving) [Website](https://seam-carving-phi.vercel.app) |
 | **Smart Fit** | Exercise classification | Scikit-Learn | [Repo](https://github.com/lee-hanhee/smart-fit)
 
