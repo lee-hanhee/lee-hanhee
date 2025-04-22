@@ -58,6 +58,7 @@
 
 | Project | Description | Tech Stack | Link |
 |--------|-------------|------------|------|
+| **EngSci Roadmap** | Roadmap of 1st and 2nd year of Engineering Science | React | In progress |
 | **Fuel Cell Optimization** | Trained neural networks to predict pressure drop and temperature in PEMFC stacks | PyTorch, MATLAB | [Repo](https://github.com/lee-hanhee/fuel-cell-prediction) [Website](https://fuel-cell-prediction.vercel.app) |
 | **InstruNET** | Multi-label instrument classification in music files | PyTorch | [Repo](https://github.com/lee-hanhee/instru-net) [Website](https://instru-net.github.io) |
 | **Seam Carving** | Seam carving app for images | C | [Repo](https://github.com/lee-hanhee/seam-carving) [Website](https://seam-carving-phi.vercel.app) |
