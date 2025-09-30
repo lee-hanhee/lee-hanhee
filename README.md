@@ -3,7 +3,7 @@
 
 🎓 Undergraduate Engineering Science student @ University of Toronto  
 🧠 Major in Machine Intelligence | 🤖 ML • 🖥️ Full-Stack Dev   
-[![Hanhee's GitHub stats](https://github-readme-stats.vercel.app/api?username=lee-hanhee)](https://github.com/anuraghazra/github-readme-stats)
+
 ---
 
 ## 💻 Tech Stack
