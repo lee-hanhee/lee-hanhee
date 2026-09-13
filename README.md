@@ -1,76 +1,29 @@
+# Hanhee Lee (이한희)
 
-# Hanhee Lee
+Engineering Science, Machine Intelligence — University of Toronto (May 2027)
 
-🎓 Undergraduate Engineering Science student @ University of Toronto  
-🧠 Major in Machine Intelligence | 🤖 ML • 🖥️ Full-Stack Dev   
+[site](https://lee-hanhee.github.io) · [linkedin](https://www.linkedin.com/in/lee-hanhee) · [email](mailto:hanheeeng.lee@mail.utoronto.ca) · [cv](https://lee-hanhee.github.io/assets/pdf/cv.pdf)
 
----
+Hi, I'm Hanhee Lee — a 4th-year Engineering Science (Machine Intelligence) student at the University of Toronto.
 
-## 💻 Tech Stack
+Leading the 100-person engineering department @ [UTMIST](https://utmist.gitlab.io/). Previously worked on speech and audio ML (CLAP, LLM TTS, GRPO) @ Huawei, an agentic tax-recommendation worker @ [Savi Finance](https://savifinance.com), and PEMFC modeling @ NUS.
 
-<table width="100%">
-  <thead>
-    <tr>
-      <th align="center">Languages</th>
-      <th align="center">Frameworks & Libraries</th>
-      <th align="center">Tools & Platforms</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td align="center">
-        <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" />
-        <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
-        <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
-        <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
-        <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
-        <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white" />
-      </td>
-      <td align="center">
-        <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
-        <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" />
-        <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-        <img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white" />
-        <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" />
-        <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-        <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" />
-        <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />
-        <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black" />
-        <img src="https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white" />
-        <img src="https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=white" />
-      </td>
-      <td align="center">
-        <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
-        <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
-        <img src="https://img.shields.io/badge/Render-%2346E3B7.svg?style=for-the-badge&logo=render&logoColor=white" />
-        <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" />
-      </td>
-    </tr>
-  </tbody>
-</table>
+I like taking ML end-to-end into something people can actually use. That's how [IMI Big Data & AI](https://lee-hanhee.github.io/#imi) (1st place, $15,000) and [Eyas](https://lee-hanhee.github.io/#eyas) (Best Agent, Hugging Face Build Small Hackathon) came about.
 
+Looking for ML Engineer / ML Research Engineer internships and full-time roles.
 
+## Projects
 
+**[IMI Big Data & AI](https://github.com/JavRedstone/imi-big-data-ai-2025-2026)** — 1st place ($15,000). Isolation Forest + SHAP AML pipeline on synthetic Canadian banking data.
 
----
+**[Eyas](https://github.com/JavRedstone/eyas)** — Best Agent, Hugging Face Build Small Hackathon. On-device CCTV agent (~8.7B params, no cloud inference).
 
-## 🚀 Projects
+**[PEMFC prediction](https://github.com/lee-hanhee/fuel-cell)** — NUS summer research: dual MLPs for thermal/pressure prediction and genetic design search.
 
-| Project | Description | Tech Stack | Link |
-|--------|-------------|------------|------|
-| **EngSci Roadmap** | Roadmap of 1st and 2nd year of Engineering Science | React | In progress |
-| **Fuel Cell Optimization** | Trained neural networks to predict pressure drop and temperature in PEMFC stacks | PyTorch, MATLAB | [Repo](https://github.com/lee-hanhee/fuel-cell-prediction) [Website](https://fuel-cell-prediction.vercel.app) |
-| **InstruNET** | Multi-label instrument classification in music files | PyTorch | [Repo](https://github.com/lee-hanhee/instru-net) [Website](https://instru-net.github.io) |
-| **Seam Carving** | Seam carving app for images | C | [Repo](https://github.com/lee-hanhee/seam-carving) [Website](https://seam-carving-phi.vercel.app) |
-| **Smart Fit** | Exercise classification | Scikit-Learn | [Repo](https://github.com/lee-hanhee/smart-fit)
+**[DeepSlop Detector](https://github.com/UTMIST/deepslop-detector)** — UTMIST team lead. AI-generated image detection (in progress).
 
----
+**[InstruNET](https://github.com/lee-hanhee/instru-net)** — 950K-parameter CNN, 82% accuracy (+10% vs YAMNet) across 14 instrument classes.
 
-## 📬 Let’s Connect
+**[Smart Fit](https://github.com/lee-hanhee/smart-fit)** — 96% accuracy classifying 6 barbell exercises from wearable sensors.
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/lee-hanhee)
-[![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white)](mailto:hanheeeng.lee@mail.utoronto.ca)
-
----
-
-> 📌 *Thanks for visiting my profile. Feel free to reach out for collaboration, research, or interesting project ideas!*
+More on the [site](https://lee-hanhee.github.io).
